@@ -1,5 +1,5 @@
 # KalikaMp331
-# macropad with nine keys, a encoder, & oled display
+macropad with nine keys, an encoder, & oled display
 
 komponen :
 - Pro Micro 5V/16Mhz / ATmega32u4
