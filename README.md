@@ -10,6 +10,8 @@ komponen :
 - led WS2812N
 - Kailh Hot-swap Hotswap Socket
 - Push Button 3*6*2.5 MM Switch 2 Kaki SMD Kecil
+- M3 screws
+- M3 spacers
 
 --------------------------
 
