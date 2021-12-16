@@ -1,7 +1,7 @@
 # KalikaMp331
 # macropad with nine keys, an encoder, & oled display
 
-komponen :
+what inside? :
 - Pro Micro 5V/16Mhz / ATmega32u4
 - LCD OLED 0.96 INCH WHITE I2C 0.96 128X64 DISPLAY MODULE
 - EC11 20mm rotary encoder 5pin
@@ -12,6 +12,7 @@ komponen :
 - Push Button 3*6*2.5 MM Switch 2 Kaki SMD Kecil
 - M3 screws
 - M3 spacers
+- casing (optional)
 
 --------------------------
 
