@@ -18,7 +18,7 @@ langkah langkah :
 2. jika semua komponen sudah tersolder, pasang switch di tempatnya
 3. lalu upload program yang telah di download ke pro micro
 4. cobalah semua switch dan rotary berfungsi
-5. program/mapping sesuai dengan kebutuhan kalian, penjelasan mapping ada di dalam programnya
+5. program/mapping sesuai dengan kebutuhan kalian, buka file KALIKA_MP331_DEFAULT, penjelasan mapping ada di dalam programnya
 6. masukkan ke dalam casing PCB dan kencangkan
 7. selamat mencoba :)
 
@@ -27,6 +27,6 @@ steps:
 2. if all components are soldered, put the switch in place
 3. then upload the downloaded program to pro micro
 4. try all switches and rotary works
-5. program/mapping according to your needs, the mapping explanation is in the program
+5. program/mapping according to your needs,open file KALIKA_MP331_DEFAULT, the mapping explanation is in the program
 6. put it in the PCB case and tighten it
 7. good luck :)
