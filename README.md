@@ -1,7 +1,7 @@
 # KalikaMp331
 # macropad with nine keys, an encoder, & oled display
 
-what inside? :
+what you need? :
 - Pro Micro 5V/16Mhz / ATmega32u4
 - LCD OLED 0.96 INCH WHITE I2C 0.96 128X64 DISPLAY MODULE
 - EC11 20mm rotary encoder 5pin
