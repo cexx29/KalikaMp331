@@ -1,5 +1,4 @@
 # KalikaMp331
-# macropad with nine keys, an encoder, & oled display
 
 KALIKA MP331 is a macro pad made to simplify your work or all your needs!. It is pro micro based and has nine buttons and one rotary encoder that you can program according to your needs and desires. It has four programs that you can change the mapping,  such as shortcuts, media player buttons, and etc., and also you can change the color mode according to your taste. This macro pad is also hot-swappable, so you can change switches whenever you want or use your favorite one, adjust it with your favorite keycaps to make it look more attractive!. Be creative by adding an OLED screen, or led lights under the PCB to make it more stunning than before.
 
